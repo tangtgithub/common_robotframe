@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<robotSetting>
+	<!--服务器信息-->
+	<server>
+		<!--wsSERVER端口号-->
+		<port>12235</port>
+		<!--心跳超时时间/s-->
+		<timeout>20</timeout>
+		<!--APP广播端口号-->
+		<appBroadcastPort>12200</appBroadcastPort>
+		<!--wsSERVER广播端口号-->
+		<serverBroadcastPort>12201</serverBroadcastPort>
+		
+	</server>
+
+</robotSetting>
